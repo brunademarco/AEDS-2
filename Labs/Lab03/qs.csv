@@ -1,0 +1,6 @@
+algoritmo,n,ordem,dist,rep,tempo_ms,comp,mov,ok
+quicksort,50000,crescente,duplicados,1,3,134,0,2,true
+quicksort,50000,crescente,duplicados,2,1,731,0,1,true
+quicksort,50000,crescente,duplicados,3,1,212,0,2,true
+quicksort,50000,crescente,duplicados,4,1,068,0,2,true
+quicksort,50000,crescente,duplicados,5,0,867,0,2,true

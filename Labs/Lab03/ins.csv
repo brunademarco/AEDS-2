@@ -1,0 +1,11 @@
+algoritmo,n,ordem,dist,rep,tempo_ms,comp,mov,ok
+insercao,2000,crescente,uniforme,1,0,157,0,1999,true
+insercao,2000,crescente,uniforme,2,0,096,0,1999,true
+insercao,2000,crescente,uniforme,3,0,098,0,1999,true
+insercao,2000,crescente,uniforme,4,0,095,0,1999,true
+insercao,2000,crescente,uniforme,5,0,096,0,1999,true
+insercao,2000,crescente,uniforme,6,0,100,0,1999,true
+insercao,2000,crescente,uniforme,7,0,093,0,1999,true
+insercao,2000,crescente,uniforme,8,0,101,0,1999,true
+insercao,2000,crescente,uniforme,9,0,018,0,1999,true
+insercao,2000,crescente,uniforme,10,0,011,0,1999,true
