@@ -4,3 +4,5 @@ recursivo
 *.out
 a.out
 *.class
+/pubs(6)/
+/TPs/TP02/AlgebraBool.java

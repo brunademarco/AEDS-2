@@ -28,5 +28,7 @@ public class InversaoString {
                 str = input.nextLine();
             }   
         }
+
+        input.close();
     }
 }

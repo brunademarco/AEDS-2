@@ -43,5 +43,6 @@ int main() {
         }
     }
 
+    free(palavra);
     return 0;
 }
